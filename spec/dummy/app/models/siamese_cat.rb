@@ -1,0 +1,3 @@
+class SiameseCat < Cat
+
+end
